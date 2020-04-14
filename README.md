@@ -1,5 +1,5 @@
 
-#### Emotional Classifier
+#### Emotional Classifier using flair
 
 Trainning datasets:
 
