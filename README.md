@@ -1,8 +1,6 @@
-
-#### Emotional Classifier using flair
+# Emotional Classifier
 
 Trainning datasets:
 
 * DailyDialog
 * EmpatheticDialogues
-
